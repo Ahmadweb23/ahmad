@@ -1,0 +1,19 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.header {
+  font-family: "Playfair Display", serif;
+}
+
+.stars {
+  color: #ff7b00;
+}
+
+.bg-light {
+  background-color: #747474 !important;
+}
+
+.rounded-circle {
+  border: 3px solid #ff2600;
+}
